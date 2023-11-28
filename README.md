@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nsreen Alfaifi
 - 👀 I’m interested in application development and cyber security
-- 🌱 I’m currently learning apple app development using Swift language
+- 🌱 I have experience in Apple app development using the Swift language and I'm currently learning Metaverse development
 - 💞️ I’m looking to collaborate on national cybersecurity authority and STC
 - 📫 You can reach me at mail nmalfaifi01@gmail.com
 
